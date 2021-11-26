@@ -1,0 +1,16 @@
+*.json
+*.env
+.env
+venv/
+bot_env/
+env/
+myenv/
+*.egg_info/
+dist/
+build/
+_*.*
+*.test.*
+*.testing.*
+*.temp.*
+temp/
+__pycache__/
