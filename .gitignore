@@ -8,7 +8,6 @@ myenv/
 *.egg_info/
 dist/
 build/
-_*.*
 *.test.*
 *.testing.*
 *.temp.*
