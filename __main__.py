@@ -58,7 +58,7 @@ bot.version = "Pre-release 0.0.2"
 
 bot.default_prefix = default_prefix
 
-bot.config_url = "mongodb+srv://CubeRiser:CubeRiserPoggers@cubingbotdb.o8ha5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+bot.config_url = read_json("config.json")["mongo"]
 
 
 # making a custom decorator for commands that can be used only by me
