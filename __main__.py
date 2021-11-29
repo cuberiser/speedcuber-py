@@ -276,4 +276,4 @@ for cog in os.listdir("cogs"):
 # runs the bot
 if __name__ == "__main__":
     token = read_json("config.json")["token"]
-    bot.run("ODYzNzAyOTYyMTk0NzQzMzA3.YOqwEQ.awFhCnINWfDYYANfQGflQ-AFMpg")
+    bot.run(token)

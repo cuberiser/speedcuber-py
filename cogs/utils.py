@@ -1,7 +1,6 @@
 import datetime
 import nextcord as discord
 from nextcord.ext import commands
-from main import guild_ids
 import aiohttp
 import io
 import humanize as hmz

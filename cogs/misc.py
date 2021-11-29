@@ -3,7 +3,6 @@ import nextcord as discord
 from nextcord.ext import commands
 import random
 import asyncio
-from main import guild_ids
 
 
 def rpsmsg(userchoice, author: discord.Member):

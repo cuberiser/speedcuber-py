@@ -2,7 +2,6 @@ import nextcord as discord
 from nextcord.ext import commands
 import random
 import pycuber as pc
-from main import guild_ids
 
 
 class cubing(commands.Cog):
